@@ -1,0 +1,3 @@
+Here lies the result of asynchronous merge of two files: 
+This the first text file.
+This the second text file.

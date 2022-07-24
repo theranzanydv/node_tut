@@ -1,0 +1,24 @@
+The result of mergerd written files is: 
+This the first text file.
+This the second text file.
+
+The result of mergerd written files is: 
+This the first text file.
+This the second text file.
+
+The result of mergerd written files is: 
+This the first text file.
+This the second text file.
+
+The result of mergerd written files is: 
+This the first text file.
+This the second text file.
+
+The result of mergerd written files is: 
+This the first text file.
+This the second text file.
+
+The result of mergerd written files is: 
+This the first text file.
+This the second text file.
+
